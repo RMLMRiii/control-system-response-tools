@@ -7,7 +7,7 @@ A Python toolkit for analyzing basic control system responses, including first-o
 - Computes second-order step response
 - Organized function-based structure
 - Includes sample control parameter data
-- Separate parameter viewer script
+- Separate control parameter viewer
 
 ## Technologies Used
 - Python
